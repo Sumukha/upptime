@@ -22,6 +22,8 @@ sites:
     url: https://bigparkcouncil.org
   - name: Brent W Davis
     url: https://brentwdavis.com
+  - name: GGG
+    url: https://ggglawfirm.com    
   - name: Immigration Lawyer News
     url: https://immigration-lawyer-news.com
   - name: iPipoles
@@ -67,7 +69,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime**."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: 
   navbar:
     - title: Status
       href: /
