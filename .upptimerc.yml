@@ -17,15 +17,24 @@ sites:
   - name: Ami learntoplaynaf.com
     url: https://learntoplaynaf.com
   - name: Ami learntoplaynaf.com/learn/
-    url: https://learntoplaynaf.com/learn/  
-  - name: ASAP
-    url: https://asapcats.org
+    url: https://learntoplaynaf.com/learn/
+  - name: andykeglerhomesolutions.com
+    url: https://andykeglerhomesolutions.com
+  - name: appliedintuition.org
+    url: https://appliedintuition.org
   - name: ANHA
-    url: https://aznaturalhistory.org
+    url: https://aznaturalhistory.org    
+  - name: auracolorlight.com
+    url: https://auracolorlight.com
   - name: BigPark
     url: https://bigparkcouncil.org
   - name: Brent W Davis
     url: https://brentwdavis.com
+  - name: Brent W Davis Law
+    url: https://brentwdavislaw.com 
+  - name: brigittegarzalaw.com
+    url: https://brigittegarzalaw.com
+    
   - name: GGG
     url: https://ggglawfirm.com    
   - name: Immigration Lawyer News
