@@ -45,11 +45,17 @@ sites:
   - name: Dentalstartupguy
     url: https://dentalstartupguy.com/      
   - name: Cove Alaska
-    url: https://covealaska.com  
+    url: https://covealaska.com
+  - name: Enerpro
+    url: https://www.enerpro-inc.com/    
   - name: Earthangelsinsedona
-    url: https://earthangelsinsedona.com/      
+    url: https://earthangelsinsedona.com/
+  - name: energyempoweredjewelry.com
+    url: https://energyempoweredjewelry.com/    
   - name: GGG
     url: https://ggglawfirm.com    
+  - name: Greenway
+    url: https://greenwaybankruptcy.com/
   - name: Immigration Lawyer News
     url: https://immigration-lawyer-news.com
   - name: iPipoles
@@ -60,6 +66,8 @@ sites:
     url: https://jaimmigrationlaw.com
   - name: iPalpiti
     url: https://ipalpiti.org
+  - name: Orozonaoils.com
+    url: https://orozonaoils.com/   
   - name: Pernicelaw.com
     url: https://pernicelaw.com 
   - name: Pryor
@@ -82,6 +90,8 @@ sites:
     url: https://sccsedona.org
   - name: Schonfeld
     url: https://schonfeldushan.com
+   - name: Sharonloy.com
+    url: https://sharonloy.com/   
   - name: Visalobo
     url: https://visalobo.com    
   - name: Visawolf
