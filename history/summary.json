@@ -6,9 +6,9 @@
     "slug": "awfl",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "87.76%",
-    "uptimeWeek": "86.40%",
-    "uptimeMonth": "91.01%",
+    "uptimeDay": "88.66%",
+    "uptimeWeek": "86.53%",
+    "uptimeMonth": "91.04%",
     "uptimeYear": "99.12%",
     "time": 1839,
     "timeDay": 770,
@@ -16,7 +16,7 @@
     "timeMonth": 1501,
     "timeYear": 1839,
     "dailyMinutesDown": {
-      "2026-02-08": 153,
+      "2026-02-08": 140,
       "2026-02-07": 88,
       "2026-02-06": 119,
       "2026-02-05": 135,
@@ -54,7 +54,7 @@
       "2026-01-03": 66,
       "2026-01-02": 82,
       "2026-01-01": 33,
-      "2025-12-31": 46
+      "2025-12-31": 85
     }
   },
   {
@@ -64,9 +64,9 @@
     "slug": "sed-web",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "87.97%",
-    "uptimeWeek": "87.48%",
-    "uptimeMonth": "92.07%",
+    "uptimeDay": "88.83%",
+    "uptimeWeek": "87.60%",
+    "uptimeMonth": "92.10%",
     "uptimeYear": "99.02%",
     "time": 562,
     "timeDay": 551,
@@ -74,7 +74,7 @@
     "timeMonth": 962,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2026-02-08": 150,
+      "2026-02-08": 138,
       "2026-02-07": 85,
       "2026-02-06": 118,
       "2026-02-05": 103,
@@ -117,7 +117,7 @@
       "2025-12-25": 98,
       "2025-12-23": 61,
       "2025-12-22": 208,
-      "2025-12-21": 20
+      "2025-12-21": 36
     }
   },
   {
@@ -266,8 +266,8 @@
     "status": "down",
     "uptime": "98.24%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.11%",
-    "uptimeMonth": "83.55%",
+    "uptimeWeek": "49.91%",
+    "uptimeMonth": "83.51%",
     "uptimeYear": "98.24%",
     "time": 421,
     "timeDay": 3302,
@@ -275,7 +275,7 @@
     "timeMonth": 469,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2026-02-08": 1240,
+      "2026-02-08": 1261,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 108,
@@ -1453,9 +1453,9 @@
     "slug": "greenway",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "90.69%",
-    "uptimeWeek": "89.00%",
-    "uptimeMonth": "93.23%",
+    "uptimeDay": "91.23%",
+    "uptimeWeek": "89.08%",
+    "uptimeMonth": "93.25%",
     "uptimeYear": "98.89%",
     "time": 409,
     "timeDay": 547,
@@ -1463,7 +1463,7 @@
     "timeMonth": 407,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2026-02-08": 116,
+      "2026-02-08": 108,
       "2026-02-07": 44,
       "2026-02-06": 109,
       "2026-02-05": 93,
@@ -1514,7 +1514,7 @@
       "2025-12-08": 263,
       "2025-12-07": 211,
       "2025-12-06": 73,
-      "2025-12-05": 18
+      "2025-12-05": 35
     }
   },
   {
@@ -1593,9 +1593,9 @@
     "slug": "i-pipoles",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "90.86%",
-    "uptimeWeek": "89.09%",
-    "uptimeMonth": "93.29%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "89.16%",
+    "uptimeMonth": "93.30%",
     "uptimeYear": "99.01%",
     "time": 471,
     "timeDay": 561,
@@ -1603,7 +1603,7 @@
     "timeMonth": 393,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2026-02-08": 113,
+      "2026-02-08": 106,
       "2026-02-07": 43,
       "2026-02-06": 108,
       "2026-02-05": 91,
@@ -1654,7 +1654,8 @@
       "2025-12-07": 209,
       "2025-12-06": 71,
       "2025-12-05": 34,
-      "2025-12-04": 41
+      "2025-12-04": 41,
+      "2025-12-03": 20
     }
   },
   {
@@ -2409,17 +2410,17 @@
     "url": "https://accountant.sb-webhosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/accountant.sb-webhosting.com.ico",
     "slug": "sb-webhosting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.46%",
     "uptimeMonth": "92.71%",
     "uptimeYear": "99.25%",
-    "time": 2517,
-    "timeDay": 2150,
-    "timeWeek": 5245,
-    "timeMonth": 3855,
-    "timeYear": 2517,
+    "time": 2525,
+    "timeDay": 3036,
+    "timeWeek": 5209,
+    "timeMonth": 3875,
+    "timeYear": 2525,
     "dailyMinutesDown": {
       "2026-02-06": 131,
       "2026-02-05": 4,
@@ -2553,17 +2554,17 @@
     "url": "https://sedonaauraphoto.com",
     "icon": "https://icons.duckduckgo.com/ip3/sedonaauraphoto.com.ico",
     "slug": "sedona-aura-photo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.30%",
     "uptimeMonth": "92.91%",
     "uptimeYear": "99.19%",
-    "time": 2028,
-    "timeDay": 1768,
-    "timeWeek": 4080,
-    "timeMonth": 2599,
-    "timeYear": 2028,
+    "time": 2026,
+    "timeDay": 1639,
+    "timeWeek": 3855,
+    "timeMonth": 2574,
+    "timeYear": 2026,
     "dailyMinutesDown": {
       "2026-02-06": 51,
       "2026-02-04": 1296,
@@ -2978,7 +2979,7 @@
     "timeMonth": 411,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2026-02-08": 1242,
+      "2026-02-08": 1263,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
