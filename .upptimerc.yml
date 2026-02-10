@@ -13,7 +13,7 @@ sites:
   - name: Admark
     url: https://admarkimprint.com
   - name: Ami learntoplaynaf.com
-    url: https://learntoplaynaf.com
+    url: https://learntoplaynaf.com/
   - name: appliedintuition.org
     url: https://appliedintuition.org
   - name: ANHA
@@ -89,7 +89,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Nonprofit 
-    url: https://nonprofit-webdesign.com
+    url: https://nonprofit-webdesign.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
