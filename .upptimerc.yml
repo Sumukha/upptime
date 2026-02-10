@@ -12,13 +12,9 @@ sites:
     url: https://santabarbara-webdesign.com
   - name: Admark
     url: https://admarkimprint.com
-  - name: Ami Sarasvati
-    url: https://amisarasvati.com
-  - name: Ami learntoplaynaf.com
+    - name: Ami learntoplaynaf.com
     url: https://learntoplaynaf.com
-  - name: Ami learntoplaynaf.com/learn/
-    url: https://learntoplaynaf.com/learn/
-  - name: andykeglerhomesolutions.com
+   - name: andykeglerhomesolutions.com
     url: https://andykeglerhomesolutions.com
   - name: appliedintuition.org
     url: https://appliedintuition.org
@@ -95,7 +91,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Nonprofit 
-    url: https://nonprofit-websitedesign.com
+    url: https://nonprofit-webdesign.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
