@@ -99,7 +99,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime**."
-  introMessage: 
+  introMessage: "Status page"
   navbar:
     - title: Status
       href: /
