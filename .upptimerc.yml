@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: AWFL
     url: https://awebsiteforlawyers.com
-    maxResponseTime: 1000
+    maxResponseTime: 2000
   - name: SedWeb
     url: https://sedonawebsitedesign.com
   - name: SBWeb
@@ -15,7 +15,7 @@ sites:
   - name: appliedintuition.org
     url: https://appliedintuition.org
   - name: ANHA
-    url: https://aznaturalhistory.org    
+    url: https://aznaturalhistory.org
   - name: auracolorlight.com
     url: https://auracolorlight.com
   - name: BigPark
@@ -23,13 +23,14 @@ sites:
   - name: BBFD
     url: https://bodyblissfactorydirect.com
   - name: Brent W Davis
-    url: https://brentwdavis.com   
+    url: https://brentwdavis.com
   - name: brigittegarzalaw.com
     url: https://brigittegarzalaw.com
   - name: Clayton Nolte
     url: https://claytonnolte.com
+    maxResponseTime: 3000
   - name: Cove Alaska
-    url: https://covealaska.com      
+    url: https://covealaska.com
   - name: Dentalstartupguy
     url: https://dentalstartupguy.com
   - name: Enerpro
@@ -51,7 +52,7 @@ sites:
   - name: Orozonaoils.com
     url: https://orozonaoils.com
   - name: Pernicelaw.com
-    url: https://pernicelaw.com 
+    url: https://pernicelaw.com
   - name: Pryor
     url: https://pryorimmigration.com 
   - name: sbpsychotherapy
@@ -59,7 +60,7 @@ sites:
   - name: sfdeportationattorney
     url: https://sfdeportationattorney.com
   - name: sbnbcc
-    url: https://sbnbcc.org   
+    url: https://sbnbcc.org
   - name: Sedona-farmers-market.com
     url: https://sedona-farmers-market.com
   - name: SB Neuro
@@ -67,9 +68,8 @@ sites:
   - name: SB Private Chef
     url: https://sb-privatechef.com
   - name: SB Webhosting
-    url: https://accountant.sb-webhosting.com   
-  - name: SCCSedona
-    url: https://sccsedona.org
+    url: https://accountant.sb-webhosting.com
+    maxResponseTime: 3000
   - name: Schonfeld
     url: https://schonfeldushan.com
   - name: SedonaAuraPhoto
@@ -77,13 +77,13 @@ sites:
   - name: Sharonloy.com
     url: https://sharonloy.com
   - name: Visalobo
-    url: https://visalobo.com    
+    url: https://visalobo.com
   - name: Visawolf
     url: https://visawolf.com
   - name: Yardenlaw
     url: https://yardenlaw.com
   - name: Yevoli
-    url: https://yevoliandmalayev.com   
+    url: https://yevoliandmalayev.com
   - name: Google
     url: https://www.google.com
   - name: Nonprofit 
