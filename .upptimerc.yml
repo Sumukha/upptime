@@ -21,35 +21,35 @@ sites:
   - name: BigPark
     url: https://bigparkcouncil.org
   - name: BBFD
-    url: https://bodyblissfactorydirect.com/   
+    url: https://bodyblissfactorydirect.com
   - name: Brent W Davis
     url: https://brentwdavis.com   
   - name: brigittegarzalaw.com
     url: https://brigittegarzalaw.com
   - name: Clayton Nolte
-    url: https://claytonnolte.com/  
+    url: https://claytonnolte.com
   - name: Cove Alaska
     url: https://covealaska.com      
   - name: Dentalstartupguy
-    url: https://dentalstartupguy.com/      
+    url: https://dentalstartupguy.com
   - name: Enerpro
-    url: https://www.enerpro-inc.com/    
+    url: https://www.enerpro-inc.com
   - name: Earthangelsinsedona
-    url: https://earthangelsinsedona.com/
+    url: https://earthangelsinsedona.com
   - name: energyempoweredjewelry.com
-    url: https://energyempoweredjewelry.com/     
+    url: https://energyempoweredjewelry.com
   - name: Greenway
-    url: https://greenwaybankruptcy.com/
+    url: https://greenwaybankruptcy.com
   - name: Immigration Lawyer News
-    url: https://immigration-lawyer-news.com/
+    url: https://immigration-lawyer-news.com
   - name: iPipoles
-    url: https://ipipoles.com/
+    url: https://ipipoles.com
   - name: Jacopo
     url: https://jacopogiacopuzzi.com
   - name: iPalpiti
     url: https://ipalpiti.org
   - name: Orozonaoils.com
-    url: https://orozonaoils.com/   
+    url: https://orozonaoils.com
   - name: Pernicelaw.com
     url: https://pernicelaw.com 
   - name: Pryor
@@ -63,7 +63,7 @@ sites:
   - name: Sedona-farmers-market.com
     url: https://sedona-farmers-market.com
   - name: SB Neuro
-    url: https://sbneuro.com/    
+    url: https://sbneuro.com
   - name: SB Private Chef
     url: https://sb-privatechef.com
   - name: SB Webhosting
@@ -75,7 +75,7 @@ sites:
   - name: SedonaAuraPhoto
     url: https://sedonaauraphoto.com    
   - name: Sharonloy.com
-    url: https://sharonloy.com/   
+    url: https://sharonloy.com
   - name: Visalobo
     url: https://visalobo.com    
   - name: Visawolf
@@ -87,7 +87,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Nonprofit 
-    url: https://nonprofit-webdesign.com/
+    url: https://nonprofit-webdesign.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
