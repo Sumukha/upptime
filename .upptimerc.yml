@@ -6,6 +6,9 @@ sites:
   - name: AWFL
     url: https://awebsiteforlawyers.com
     maxResponseTime: 2000
+  - name: ASAP
+    url: https://asapcats.org
+    maxResponseTime: 2000
   - name: SedWeb
     url: https://sedonawebsitedesign.com
   - name: SBWeb
