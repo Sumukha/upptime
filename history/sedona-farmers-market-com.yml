@@ -1,7 +1,7 @@
 url: https://sedona-farmers-market.com
-status: up
-code: 200
-responseTime: 398
-lastUpdated: 2026-04-18T23:23:55.618Z
+status: down
+code: 415
+responseTime: 225
+lastUpdated: 2026-04-19T19:51:59.512Z
 startTime: 2025-02-18T20:12:57.813Z
 generator: Upptime <https://github.com/upptime/upptime>
