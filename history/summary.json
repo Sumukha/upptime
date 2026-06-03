@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/awebsiteforlawyers.com.ico",
     "slug": "awfl",
     "status": "down",
-    "uptime": "97.83%",
-    "uptimeDay": "86.37%",
-    "uptimeWeek": "77.51%",
-    "uptimeMonth": "79.63%",
-    "uptimeYear": "97.21%",
+    "uptime": "97.79%",
+    "uptimeDay": "65.70%",
+    "uptimeWeek": "74.56%",
+    "uptimeMonth": "79.18%",
+    "uptimeYear": "97.15%",
     "time": 1744,
     "timeDay": 787,
     "timeWeek": 832,
-    "timeMonth": 990,
+    "timeMonth": 993,
     "timeYear": 1754,
     "dailyMinutesDown": {
       "2026-03-31": 185,
@@ -69,7 +69,7 @@
       "2026-05-31": 295,
       "2026-06-02": 99,
       "2026-06-01": 27,
-      "2026-06-03": 166
+      "2026-06-03": 464
     }
   },
   {
@@ -78,15 +78,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/asapcats.org.ico",
     "slug": "asap",
     "status": "down",
-    "uptime": "84.05%",
-    "uptimeDay": "87.03%",
-    "uptimeWeek": "77.80%",
-    "uptimeMonth": "80.25%",
-    "uptimeYear": "84.05%",
+    "uptime": "83.75%",
+    "uptimeDay": "66.37%",
+    "uptimeWeek": "74.85%",
+    "uptimeMonth": "79.79%",
+    "uptimeYear": "83.75%",
     "time": 439,
     "timeDay": 150,
     "timeWeek": 355,
-    "timeMonth": 410,
+    "timeMonth": 409,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2026-04-07": 39,
@@ -133,7 +133,7 @@
       "2026-05-31": 290,
       "2026-06-02": 95,
       "2026-06-01": 22,
-      "2026-06-03": 162
+      "2026-06-03": 459
     }
   },
   {
@@ -142,15 +142,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sedonawebsitedesign.com.ico",
     "slug": "sed-web",
     "status": "down",
-    "uptime": "97.90%",
-    "uptimeDay": "87.70%",
-    "uptimeWeek": "78.09%",
-    "uptimeMonth": "80.58%",
-    "uptimeYear": "97.30%",
+    "uptime": "97.86%",
+    "uptimeDay": "67.04%",
+    "uptimeWeek": "75.13%",
+    "uptimeMonth": "80.13%",
+    "uptimeYear": "97.24%",
     "time": 626,
     "timeDay": 223,
     "timeWeek": 295,
-    "timeMonth": 383,
+    "timeMonth": 381,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2026-03-26": 24,
@@ -206,7 +206,7 @@
       "2026-05-31": 286,
       "2026-06-02": 90,
       "2026-06-01": 17,
-      "2026-06-03": 157
+      "2026-06-03": 454
     }
   },
   {
@@ -214,19 +214,19 @@
     "url": "https://santabarbara-webdesign.com",
     "icon": "https://icons.duckduckgo.com/ip3/santabarbara-webdesign.com.ico",
     "slug": "sb-web",
-    "status": "up",
-    "uptime": "94.27%",
-    "uptimeDay": "93.75%",
-    "uptimeWeek": "80.82%",
-    "uptimeMonth": "86.82%",
-    "uptimeYear": "92.61%",
-    "time": 373,
-    "timeDay": 123,
-    "timeWeek": 213,
-    "timeMonth": 244,
+    "status": "down",
+    "uptime": "94.26%",
+    "uptimeDay": "87.91%",
+    "uptimeWeek": "79.99%",
+    "uptimeMonth": "86.85%",
+    "uptimeYear": "92.60%",
+    "time": 372,
+    "timeDay": 105,
+    "timeWeek": 203,
+    "timeMonth": 239,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2026-02-21": 37,
+      "2026-02-21": 16,
       "2026-02-22": 199,
       "2026-02-24": 151,
       "2026-02-25": 145,
@@ -306,7 +306,7 @@
       "2026-05-30": 1438,
       "2026-05-29": 4,
       "2026-05-31": 184,
-      "2026-06-03": 70,
+      "2026-06-03": 154,
       "2026-06-02": 20
     }
   },
@@ -315,17 +315,17 @@
     "url": "https://admarkimprint.com",
     "icon": "https://icons.duckduckgo.com/ip3/admarkimprint.com.ico",
     "slug": "admark",
-    "status": "down",
-    "uptime": "94.59%",
-    "uptimeDay": "53.73%",
-    "uptimeWeek": "89.44%",
-    "uptimeMonth": "89.20%",
-    "uptimeYear": "93.03%",
+    "status": "up",
+    "uptime": "94.57%",
+    "uptimeDay": "59.57%",
+    "uptimeWeek": "87.33%",
+    "uptimeMonth": "88.94%",
+    "uptimeYear": "92.99%",
     "time": 269,
-    "timeDay": 276,
-    "timeWeek": 230,
-    "timeMonth": 251,
-    "timeYear": 269,
+    "timeDay": 249,
+    "timeWeek": 223,
+    "timeMonth": 250,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2026-01-21": 59,
       "2026-01-24": 17,
@@ -407,7 +407,7 @@
       "2026-05-29": 276,
       "2026-05-28": 0,
       "2026-06-02": 631,
-      "2026-06-03": 157
+      "2026-06-03": 370
     }
   },
   {
@@ -416,15 +416,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/appliedintuition.org.ico",
     "slug": "appliedintuition-org",
     "status": "down",
-    "uptime": "97.92%",
-    "uptimeDay": "88.40%",
-    "uptimeWeek": "78.38%",
-    "uptimeMonth": "80.92%",
-    "uptimeYear": "97.33%",
+    "uptime": "97.88%",
+    "uptimeDay": "67.73%",
+    "uptimeWeek": "75.43%",
+    "uptimeMonth": "80.47%",
+    "uptimeYear": "97.27%",
     "time": 622,
     "timeDay": 273,
     "timeWeek": 476,
-    "timeMonth": 543,
+    "timeMonth": 545,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2026-03-25": 80,
@@ -480,7 +480,7 @@
       "2026-05-31": 281,
       "2026-06-02": 85,
       "2026-06-01": 13,
-      "2026-06-03": 152
+      "2026-06-03": 450
     }
   },
   {
@@ -489,15 +489,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/aznaturalhistory.org.ico",
     "slug": "anha",
     "status": "down",
-    "uptime": "97.94%",
-    "uptimeDay": "89.07%",
-    "uptimeWeek": "78.67%",
-    "uptimeMonth": "81.26%",
-    "uptimeYear": "97.35%",
+    "uptime": "97.90%",
+    "uptimeDay": "68.40%",
+    "uptimeWeek": "75.71%",
+    "uptimeMonth": "80.80%",
+    "uptimeYear": "97.29%",
     "time": 531,
     "timeDay": 145,
     "timeWeek": 333,
-    "timeMonth": 368,
+    "timeMonth": 366,
     "timeYear": 534,
     "dailyMinutesDown": {
       "2026-03-25": 198,
@@ -553,7 +553,7 @@
       "2026-05-31": 276,
       "2026-06-02": 80,
       "2026-06-01": 8,
-      "2026-06-03": 147
+      "2026-06-03": 445
     }
   },
   {
@@ -561,16 +561,16 @@
     "url": "https://auracolorlight.com",
     "icon": "https://icons.duckduckgo.com/ip3/auracolorlight.com.ico",
     "slug": "auracolorlight-com",
-    "status": "down",
-    "uptime": "94.59%",
-    "uptimeDay": "54.42%",
-    "uptimeWeek": "89.54%",
-    "uptimeMonth": "89.34%",
-    "uptimeYear": "93.05%",
+    "status": "up",
+    "uptime": "94.56%",
+    "uptimeDay": "59.60%",
+    "uptimeWeek": "87.33%",
+    "uptimeMonth": "89.06%",
+    "uptimeYear": "93.01%",
     "time": 1414,
-    "timeDay": 1160,
-    "timeWeek": 1262,
-    "timeMonth": 1457,
+    "timeDay": 1240,
+    "timeWeek": 1285,
+    "timeMonth": 1474,
     "timeYear": 1391,
     "dailyMinutesDown": {
       "2026-01-21": 58,
@@ -653,7 +653,7 @@
       "2026-05-29": 276,
       "2026-05-28": 0,
       "2026-06-02": 631,
-      "2026-06-03": 147
+      "2026-06-03": 370
     }
   },
   {
@@ -661,17 +661,17 @@
     "url": "https://bigparkcouncil.org",
     "icon": "https://icons.duckduckgo.com/ip3/bigparkcouncil.org.ico",
     "slug": "big-park",
-    "status": "down",
-    "uptime": "94.53%",
-    "uptimeDay": "54.44%",
-    "uptimeWeek": "87.49%",
-    "uptimeMonth": "87.90%",
-    "uptimeYear": "92.95%",
+    "status": "up",
+    "uptime": "94.49%",
+    "uptimeDay": "59.62%",
+    "uptimeWeek": "85.28%",
+    "uptimeMonth": "87.62%",
+    "uptimeYear": "92.90%",
     "time": 1084,
-    "timeDay": 865,
-    "timeWeek": 890,
-    "timeMonth": 975,
-    "timeYear": 1048,
+    "timeDay": 852,
+    "timeWeek": 884,
+    "timeMonth": 979,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-01-25": 56,
       "2026-01-26": 31,
@@ -753,7 +753,7 @@
       "2026-05-28": 208,
       "2026-05-29": 276,
       "2026-06-02": 630,
-      "2026-06-03": 147
+      "2026-06-03": 370
     }
   },
   {
@@ -761,16 +761,16 @@
     "url": "https://bodyblissfactorydirect.com",
     "icon": "https://icons.duckduckgo.com/ip3/bodyblissfactorydirect.com.ico",
     "slug": "bbfd",
-    "status": "down",
-    "uptime": "94.32%",
-    "uptimeDay": "54.46%",
-    "uptimeWeek": "89.56%",
-    "uptimeMonth": "89.35%",
-    "uptimeYear": "92.78%",
+    "status": "up",
+    "uptime": "94.29%",
+    "uptimeDay": "59.65%",
+    "uptimeWeek": "87.35%",
+    "uptimeMonth": "89.07%",
+    "uptimeYear": "92.74%",
     "time": 302,
-    "timeDay": 333,
-    "timeWeek": 287,
-    "timeMonth": 251,
+    "timeDay": 310,
+    "timeWeek": 282,
+    "timeMonth": 250,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2026-01-19": 1072,
@@ -854,7 +854,7 @@
       "2026-05-24": 197,
       "2026-05-29": 276,
       "2026-06-02": 630,
-      "2026-06-03": 147
+      "2026-06-03": 370
     }
   },
   {
@@ -863,11 +863,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/brentwdavis.com.ico",
     "slug": "brent-w-davis",
     "status": "down",
-    "uptime": "97.97%",
-    "uptimeDay": "89.80%",
-    "uptimeWeek": "78.97%",
-    "uptimeMonth": "81.60%",
-    "uptimeYear": "97.38%",
+    "uptime": "97.92%",
+    "uptimeDay": "69.13%",
+    "uptimeWeek": "76.01%",
+    "uptimeMonth": "81.14%",
+    "uptimeYear": "97.32%",
     "time": 414,
     "timeDay": 166,
     "timeWeek": 282,
@@ -927,7 +927,7 @@
       "2026-05-31": 271,
       "2026-06-02": 75,
       "2026-06-01": 3,
-      "2026-06-03": 142
+      "2026-06-03": 439
     }
   },
   {
@@ -936,15 +936,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/brigittegarzalaw.com.ico",
     "slug": "brigittegarzalaw-com",
     "status": "down",
-    "uptime": "97.99%",
-    "uptimeDay": "90.47%",
-    "uptimeWeek": "79.25%",
-    "uptimeMonth": "81.93%",
-    "uptimeYear": "97.41%",
+    "uptime": "97.94%",
+    "uptimeDay": "69.80%",
+    "uptimeWeek": "76.30%",
+    "uptimeMonth": "81.47%",
+    "uptimeYear": "97.36%",
     "time": 576,
     "timeDay": 156,
     "timeWeek": 368,
-    "timeMonth": 468,
+    "timeMonth": 460,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2026-03-25": 196,
@@ -999,7 +999,7 @@
       "2026-05-30": 1422,
       "2026-05-31": 266,
       "2026-06-02": 68,
-      "2026-06-03": 137
+      "2026-06-03": 435
     }
   },
   {
@@ -1008,15 +1008,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/claytonnolte.com.ico",
     "slug": "clayton-nolte",
     "status": "down",
-    "uptime": "98.00%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "79.54%",
-    "uptimeMonth": "82.26%",
-    "uptimeYear": "97.45%",
+    "uptime": "97.96%",
+    "uptimeDay": "70.47%",
+    "uptimeWeek": "76.58%",
+    "uptimeMonth": "81.80%",
+    "uptimeYear": "97.39%",
     "time": 1779,
     "timeDay": 1478,
     "timeWeek": 1551,
-    "timeMonth": 1324,
+    "timeMonth": 1334,
     "timeYear": 1789,
     "dailyMinutesDown": {
       "2026-03-26": 22,
@@ -1069,7 +1069,7 @@
       "2026-05-30": 1417,
       "2026-05-31": 262,
       "2026-06-02": 63,
-      "2026-06-03": 127
+      "2026-06-03": 425
     }
   },
   {
@@ -1078,7 +1078,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/covealaska.com.ico",
     "slug": "cove-alaska",
     "status": "up",
-    "uptime": "95.06%",
+    "uptime": "95.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1158,11 +1158,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dentalstartupguy.com.ico",
     "slug": "dentalstartupguy",
     "status": "down",
-    "uptime": "98.02%",
-    "uptimeDay": "91.80%",
-    "uptimeWeek": "79.82%",
-    "uptimeMonth": "82.59%",
-    "uptimeYear": "97.47%",
+    "uptime": "97.98%",
+    "uptimeDay": "71.13%",
+    "uptimeWeek": "76.87%",
+    "uptimeMonth": "82.13%",
+    "uptimeYear": "97.42%",
     "time": 492,
     "timeDay": 151,
     "timeWeek": 280,
@@ -1221,7 +1221,7 @@
       "2026-05-30": 1412,
       "2026-05-31": 257,
       "2026-06-02": 58,
-      "2026-06-03": 119
+      "2026-06-03": 416
     }
   },
   {
@@ -1229,17 +1229,17 @@
     "url": "https://www.enerpro-inc.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.enerpro-inc.com.ico",
     "slug": "enerpro",
-    "status": "down",
-    "uptime": "93.96%",
-    "uptimeDay": "55.83%",
-    "uptimeWeek": "89.75%",
-    "uptimeMonth": "89.62%",
-    "uptimeYear": "92.82%",
+    "status": "up",
+    "uptime": "93.92%",
+    "uptimeDay": "59.70%",
+    "uptimeWeek": "87.35%",
+    "uptimeMonth": "89.29%",
+    "uptimeYear": "92.77%",
     "time": 897,
-    "timeDay": 185,
-    "timeWeek": 687,
+    "timeDay": 279,
+    "timeWeek": 685,
     "timeMonth": 513,
-    "timeYear": 928,
+    "timeYear": 927,
     "dailyMinutesDown": {
       "2026-01-19": 1073,
       "2026-01-18": 366,
@@ -1322,7 +1322,7 @@
       "2026-05-24": 177,
       "2026-05-29": 275,
       "2026-06-02": 630,
-      "2026-06-03": 128
+      "2026-06-03": 370
     }
   },
   {
@@ -1331,15 +1331,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/earthangelsinsedona.com.ico",
     "slug": "earthangelsinsedona",
     "status": "down",
-    "uptime": "98.04%",
-    "uptimeDay": "92.49%",
-    "uptimeWeek": "80.11%",
-    "uptimeMonth": "82.93%",
-    "uptimeYear": "97.51%",
+    "uptime": "98.00%",
+    "uptimeDay": "71.82%",
+    "uptimeWeek": "77.16%",
+    "uptimeMonth": "82.47%",
+    "uptimeYear": "97.45%",
     "time": 391,
     "timeDay": 193,
     "timeWeek": 279,
-    "timeMonth": 347,
+    "timeMonth": 344,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2026-03-23": 22,
@@ -1395,7 +1395,7 @@
       "2026-05-30": 1407,
       "2026-05-31": 252,
       "2026-06-02": 53,
-      "2026-06-03": 109
+      "2026-06-03": 406
     }
   },
   {
@@ -1426,15 +1426,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/greenwaybankruptcy.com.ico",
     "slug": "greenway",
     "status": "down",
-    "uptime": "97.92%",
-    "uptimeDay": "93.15%",
-    "uptimeWeek": "80.40%",
-    "uptimeMonth": "83.26%",
-    "uptimeYear": "97.53%",
+    "uptime": "97.87%",
+    "uptimeDay": "72.49%",
+    "uptimeWeek": "77.45%",
+    "uptimeMonth": "82.80%",
+    "uptimeYear": "97.47%",
     "time": 410,
     "timeDay": 160,
     "timeWeek": 311,
-    "timeMonth": 390,
+    "timeMonth": 388,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2026-03-23": 21,
@@ -1489,7 +1489,7 @@
       "2026-05-30": 1402,
       "2026-05-31": 247,
       "2026-06-02": 48,
-      "2026-06-03": 99
+      "2026-06-03": 396
     }
   },
   {
@@ -1497,17 +1497,17 @@
     "url": "https://immigration-lawyer-news.com",
     "icon": "https://icons.duckduckgo.com/ip3/immigration-lawyer-news.com.ico",
     "slug": "immigration-lawyer-news",
-    "status": "down",
-    "uptime": "94.43%",
-    "uptimeDay": "56.53%",
-    "uptimeWeek": "89.85%",
-    "uptimeMonth": "89.76%",
-    "uptimeYear": "92.82%",
+    "status": "up",
+    "uptime": "94.40%",
+    "uptimeDay": "59.73%",
+    "uptimeWeek": "87.36%",
+    "uptimeMonth": "89.41%",
+    "uptimeYear": "92.77%",
     "time": 245,
-    "timeDay": 283,
-    "timeWeek": 256,
-    "timeMonth": 226,
-    "timeYear": 246,
+    "timeDay": 252,
+    "timeWeek": 246,
+    "timeMonth": 222,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2026-01-17": 26,
       "2026-01-18": 402,
@@ -1592,7 +1592,7 @@
       "2026-05-24": 167,
       "2026-05-29": 275,
       "2026-06-02": 629,
-      "2026-06-03": 119
+      "2026-06-03": 370
     }
   },
   {
@@ -1601,15 +1601,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipipoles.com.ico",
     "slug": "i-pipoles",
     "status": "down",
-    "uptime": "98.11%",
-    "uptimeDay": "93.84%",
-    "uptimeWeek": "80.69%",
-    "uptimeMonth": "83.59%",
-    "uptimeYear": "97.57%",
+    "uptime": "98.07%",
+    "uptimeDay": "73.18%",
+    "uptimeWeek": "77.74%",
+    "uptimeMonth": "83.13%",
+    "uptimeYear": "97.51%",
     "time": 568,
     "timeDay": 162,
     "timeWeek": 288,
-    "timeMonth": 363,
+    "timeMonth": 360,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2026-03-23": 63,
@@ -1664,7 +1664,7 @@
       "2026-05-30": 1398,
       "2026-05-31": 242,
       "2026-06-02": 44,
-      "2026-06-03": 89
+      "2026-06-03": 386
     }
   },
   {
@@ -1673,15 +1673,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jacopogiacopuzzi.com.ico",
     "slug": "jacopo",
     "status": "down",
-    "uptime": "98.04%",
-    "uptimeDay": "94.51%",
-    "uptimeWeek": "80.98%",
-    "uptimeMonth": "82.22%",
-    "uptimeYear": "97.47%",
+    "uptime": "97.99%",
+    "uptimeDay": "73.85%",
+    "uptimeWeek": "78.03%",
+    "uptimeMonth": "81.76%",
+    "uptimeYear": "97.41%",
     "time": 1288,
     "timeDay": 476,
     "timeWeek": 588,
-    "timeMonth": 645,
+    "timeMonth": 648,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2026-03-23": 21,
@@ -1736,7 +1736,7 @@
       "2026-05-30": 1393,
       "2026-05-31": 237,
       "2026-06-02": 39,
-      "2026-06-03": 79
+      "2026-06-03": 377
     }
   },
   {
@@ -1744,16 +1744,16 @@
     "url": "https://ipalpiti.org",
     "icon": "https://icons.duckduckgo.com/ip3/ipalpiti.org.ico",
     "slug": "i-palpiti",
-    "status": "down",
-    "uptime": "94.86%",
-    "uptimeDay": "57.22%",
-    "uptimeWeek": "89.95%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "93.38%",
+    "status": "up",
+    "uptime": "94.82%",
+    "uptimeDay": "59.77%",
+    "uptimeWeek": "87.37%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "93.33%",
     "time": 335,
-    "timeDay": 312,
-    "timeWeek": 282,
-    "timeMonth": 354,
+    "timeDay": 301,
+    "timeWeek": 280,
+    "timeMonth": 355,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2026-01-12": 18,
@@ -1838,7 +1838,7 @@
       "2026-05-24": 157,
       "2026-05-29": 275,
       "2026-06-02": 628,
-      "2026-06-03": 109
+      "2026-06-03": 370
     }
   },
   {
@@ -1847,11 +1847,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mattwebman.com.ico",
     "slug": "mattwebman",
     "status": "up",
-    "uptime": "90.14%",
+    "uptime": "90.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "85.00%",
-    "uptimeYear": "90.14%",
+    "uptimeYear": "90.18%",
     "time": 3467,
     "timeDay": 24685,
     "timeWeek": 12344,
@@ -1884,15 +1884,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/orozonaoils.com.ico",
     "slug": "orozonaoils-com",
     "status": "down",
-    "uptime": "97.90%",
-    "uptimeDay": "95.22%",
-    "uptimeWeek": "81.27%",
-    "uptimeMonth": "82.64%",
-    "uptimeYear": "97.51%",
+    "uptime": "97.86%",
+    "uptimeDay": "74.55%",
+    "uptimeWeek": "78.32%",
+    "uptimeMonth": "82.17%",
+    "uptimeYear": "97.45%",
     "time": 494,
     "timeDay": 177,
     "timeWeek": 299,
-    "timeMonth": 443,
+    "timeMonth": 444,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2026-03-23": 20,
@@ -1947,7 +1947,7 @@
       "2026-05-30": 1387,
       "2026-05-31": 233,
       "2026-06-02": 34,
-      "2026-06-03": 69
+      "2026-06-03": 367
     }
   },
   {
@@ -1955,17 +1955,17 @@
     "url": "https://pernicelaw.com",
     "icon": "https://icons.duckduckgo.com/ip3/pernicelaw.com.ico",
     "slug": "pernicelaw-com",
-    "status": "down",
-    "uptime": "94.84%",
-    "uptimeDay": "57.55%",
-    "uptimeWeek": "90.01%",
-    "uptimeMonth": "96.47%",
-    "uptimeYear": "93.39%",
-    "time": 329,
-    "timeDay": 331,
-    "timeWeek": 301,
-    "timeMonth": 304,
-    "timeYear": 321,
+    "status": "up",
+    "uptime": "94.80%",
+    "uptimeDay": "59.77%",
+    "uptimeWeek": "87.37%",
+    "uptimeMonth": "96.08%",
+    "uptimeYear": "93.34%",
+    "time": 330,
+    "timeDay": 393,
+    "timeWeek": 327,
+    "timeMonth": 313,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2026-01-15": 40,
       "2026-01-17": 25,
@@ -2048,7 +2048,7 @@
       "2026-05-24": 142,
       "2026-05-29": 274,
       "2026-06-02": 628,
-      "2026-06-03": 105
+      "2026-06-03": 371
     }
   },
   {
@@ -2079,16 +2079,16 @@
     "url": "https://sbpsychotherapy.com",
     "icon": "https://icons.duckduckgo.com/ip3/sbpsychotherapy.com.ico",
     "slug": "sbpsychotherapy",
-    "status": "down",
-    "uptime": "94.87%",
-    "uptimeDay": "57.58%",
-    "uptimeWeek": "90.02%",
-    "uptimeMonth": "96.48%",
-    "uptimeYear": "93.39%",
-    "time": 185,
-    "timeDay": 168,
-    "timeWeek": 152,
-    "timeMonth": 162,
+    "status": "up",
+    "uptime": "94.83%",
+    "uptimeDay": "59.80%",
+    "uptimeWeek": "87.38%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "93.34%",
+    "time": 184,
+    "timeDay": 149,
+    "timeWeek": 146,
+    "timeMonth": 158,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2026-01-15": 40,
@@ -2172,7 +2172,7 @@
       "2026-05-24": 141,
       "2026-05-29": 274,
       "2026-06-02": 628,
-      "2026-06-03": 105
+      "2026-06-03": 370
     }
   },
   {
@@ -2181,15 +2181,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sfdeportationattorney.com.ico",
     "slug": "sfdeportationattorney",
     "status": "down",
-    "uptime": "98.09%",
-    "uptimeDay": "95.93%",
-    "uptimeWeek": "81.57%",
-    "uptimeMonth": "82.98%",
-    "uptimeYear": "97.54%",
+    "uptime": "98.05%",
+    "uptimeDay": "75.26%",
+    "uptimeWeek": "78.61%",
+    "uptimeMonth": "82.52%",
+    "uptimeYear": "97.48%",
     "time": 596,
     "timeDay": 142,
     "timeWeek": 292,
-    "timeMonth": 369,
+    "timeMonth": 367,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2026-03-23": 60,
@@ -2244,7 +2244,7 @@
       "2026-05-30": 1383,
       "2026-05-31": 228,
       "2026-06-02": 29,
-      "2026-06-03": 59
+      "2026-06-03": 357
     }
   },
   {
@@ -2253,15 +2253,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbnbcc.org.ico",
     "slug": "sbnbcc",
     "status": "down",
-    "uptime": "98.12%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "81.85%",
-    "uptimeMonth": "83.33%",
-    "uptimeYear": "97.57%",
+    "uptime": "98.07%",
+    "uptimeDay": "75.93%",
+    "uptimeWeek": "78.90%",
+    "uptimeMonth": "82.86%",
+    "uptimeYear": "97.52%",
     "time": 532,
     "timeDay": 150,
     "timeWeek": 338,
-    "timeMonth": 447,
+    "timeMonth": 448,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2026-03-23": 59,
@@ -2316,7 +2316,7 @@
       "2026-05-30": 1378,
       "2026-05-31": 223,
       "2026-06-02": 25,
-      "2026-06-03": 49
+      "2026-06-03": 347
     }
   },
   {
@@ -2324,17 +2324,17 @@
     "url": "https://sedona-farmers-market.com",
     "icon": "https://icons.duckduckgo.com/ip3/sedona-farmers-market.com.ico",
     "slug": "sedona-farmers-market-com",
-    "status": "down",
-    "uptime": "94.87%",
-    "uptimeDay": "58.27%",
-    "uptimeWeek": "90.12%",
-    "uptimeMonth": "96.60%",
-    "uptimeYear": "93.41%",
-    "time": 627,
-    "timeDay": 481,
-    "timeWeek": 574,
-    "timeMonth": 620,
-    "timeYear": 619,
+    "status": "up",
+    "uptime": "94.84%",
+    "uptimeDay": "59.83%",
+    "uptimeWeek": "87.39%",
+    "uptimeMonth": "96.18%",
+    "uptimeYear": "93.35%",
+    "time": 628,
+    "timeDay": 551,
+    "timeWeek": 594,
+    "timeMonth": 626,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2026-01-10": 16,
       "2026-01-12": 18,
@@ -2418,7 +2418,7 @@
       "2026-05-24": 132,
       "2026-05-29": 274,
       "2026-06-02": 628,
-      "2026-06-03": 95
+      "2026-06-03": 370
     }
   },
   {
@@ -2427,15 +2427,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbneuro.com.ico",
     "slug": "sb-neuro",
     "status": "down",
-    "uptime": "94.12%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "82.14%",
-    "uptimeMonth": "83.70%",
-    "uptimeYear": "92.47%",
+    "uptime": "94.08%",
+    "uptimeDay": "76.62%",
+    "uptimeWeek": "79.19%",
+    "uptimeMonth": "83.23%",
+    "uptimeYear": "92.41%",
     "time": 410,
     "timeDay": 146,
     "timeWeek": 256,
-    "timeMonth": 315,
+    "timeMonth": 314,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2026-03-03": 38,
@@ -2510,7 +2510,7 @@
       "2026-05-30": 1373,
       "2026-05-31": 218,
       "2026-06-02": 20,
-      "2026-06-03": 39
+      "2026-06-03": 337
     }
   },
   {
@@ -2519,15 +2519,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sb-privatechef.com.ico",
     "slug": "sb-private-chef",
     "status": "down",
-    "uptime": "94.17%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "82.58%",
-    "uptimeMonth": "84.06%",
-    "uptimeYear": "92.50%",
+    "uptime": "94.13%",
+    "uptimeDay": "77.29%",
+    "uptimeWeek": "79.63%",
+    "uptimeMonth": "83.60%",
+    "uptimeYear": "92.44%",
     "time": 417,
     "timeDay": 149,
     "timeWeek": 285,
-    "timeMonth": 332,
+    "timeMonth": 330,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2026-03-03": 81,
@@ -2601,7 +2601,7 @@
       "2026-05-28": 145,
       "2026-05-30": 1368,
       "2026-05-31": 213,
-      "2026-06-03": 29
+      "2026-06-03": 327
     }
   },
   {
@@ -2610,7 +2610,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/accountant.sb-webhosting.com.ico",
     "slug": "sb-webhosting",
     "status": "up",
-    "uptime": "93.88%",
+    "uptime": "93.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.08%",
     "uptimeMonth": "84.44%",
@@ -2717,17 +2717,17 @@
     "url": "https://schonfeldushan.com",
     "icon": "https://icons.duckduckgo.com/ip3/schonfeldushan.com.ico",
     "slug": "schonfeld",
-    "status": "down",
-    "uptime": "94.90%",
-    "uptimeDay": "58.97%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "96.77%",
-    "uptimeYear": "93.43%",
+    "status": "up",
+    "uptime": "94.86%",
+    "uptimeDay": "59.87%",
+    "uptimeWeek": "87.40%",
+    "uptimeMonth": "96.33%",
+    "uptimeYear": "93.37%",
     "time": 235,
-    "timeDay": 229,
-    "timeWeek": 219,
-    "timeMonth": 223,
-    "timeYear": 234,
+    "timeDay": 221,
+    "timeWeek": 216,
+    "timeMonth": 221,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2026-01-10": 16,
       "2026-01-12": 17,
@@ -2811,7 +2811,7 @@
       "2026-05-24": 112,
       "2026-05-29": 274,
       "2026-06-02": 627,
-      "2026-06-03": 85
+      "2026-06-03": 370
     }
   },
   {
@@ -2912,16 +2912,16 @@
     "url": "https://sharonloy.com",
     "icon": "https://icons.duckduckgo.com/ip3/sharonloy.com.ico",
     "slug": "sharonloy-com",
-    "status": "down",
-    "uptime": "94.47%",
-    "uptimeDay": "58.99%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "96.83%",
-    "uptimeYear": "93.43%",
+    "status": "up",
+    "uptime": "94.42%",
+    "uptimeDay": "59.88%",
+    "uptimeWeek": "87.40%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "93.37%",
     "time": 769,
-    "timeDay": 993,
-    "timeWeek": 992,
-    "timeMonth": 798,
+    "timeDay": 962,
+    "timeWeek": 980,
+    "timeMonth": 812,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2026-01-09": 48,
@@ -3007,7 +3007,7 @@
       "2026-05-24": 102,
       "2026-05-29": 274,
       "2026-06-02": 626,
-      "2026-06-03": 85
+      "2026-06-03": 370
     }
   },
   {
@@ -3015,20 +3015,20 @@
     "url": "https://visalobo.com",
     "icon": "https://icons.duckduckgo.com/ip3/visalobo.com.ico",
     "slug": "visalobo",
-    "status": "up",
+    "status": "down",
     "uptime": "94.47%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "83.72%",
-    "uptimeMonth": "88.77%",
-    "uptimeYear": "92.87%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "83.60%",
+    "uptimeMonth": "88.96%",
+    "uptimeYear": "92.88%",
     "time": 345,
-    "timeDay": 105,
-    "timeWeek": 181,
-    "timeMonth": 237,
+    "timeDay": 93,
+    "timeWeek": 173,
+    "timeMonth": 231,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2026-02-15": 65,
       "2026-02-16": 290,
+      "2026-02-15": 34,
       "2026-02-17": 17,
       "2026-02-18": 41,
       "2026-02-19": 42,
@@ -3108,7 +3108,7 @@
       "2026-05-28": 145,
       "2026-05-30": 1368,
       "2026-05-31": 112,
-      "2026-06-03": 16
+      "2026-06-03": 29
     }
   },
   {
@@ -3117,11 +3117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/visawolf.com.ico",
     "slug": "visawolf",
     "status": "down",
-    "uptime": "94.21%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "82.93%",
-    "uptimeMonth": "84.56%",
-    "uptimeYear": "92.53%",
+    "uptime": "94.16%",
+    "uptimeDay": "78.75%",
+    "uptimeWeek": "79.98%",
+    "uptimeMonth": "84.09%",
+    "uptimeYear": "92.48%",
     "time": 513,
     "timeDay": 169,
     "timeWeek": 494,
@@ -3201,7 +3201,7 @@
       "2026-05-28": 140,
       "2026-05-30": 1363,
       "2026-05-31": 208,
-      "2026-06-03": 8
+      "2026-06-03": 306
     }
   },
   {
@@ -3209,16 +3209,16 @@
     "url": "https://yardenlaw.com",
     "icon": "https://icons.duckduckgo.com/ip3/yardenlaw.com.ico",
     "slug": "yardenlaw",
-    "status": "down",
-    "uptime": "94.91%",
-    "uptimeDay": "59.34%",
-    "uptimeWeek": "90.28%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "93.44%",
-    "time": 758,
-    "timeDay": 625,
-    "timeWeek": 581,
-    "timeMonth": 701,
+    "status": "up",
+    "uptime": "94.87%",
+    "uptimeDay": "59.89%",
+    "uptimeWeek": "87.40%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "93.38%",
+    "time": 759,
+    "timeDay": 706,
+    "timeWeek": 615,
+    "timeMonth": 712,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2026-01-10": 16,
@@ -3303,7 +3303,7 @@
       "2026-05-24": 97,
       "2026-05-29": 273,
       "2026-06-02": 626,
-      "2026-06-03": 80
+      "2026-06-03": 370
     }
   },
   {
@@ -3311,16 +3311,16 @@
     "url": "https://yevoliandmalayev.com",
     "icon": "https://icons.duckduckgo.com/ip3/yevoliandmalayev.com.ico",
     "slug": "yevoli",
-    "status": "down",
-    "uptime": "94.91%",
-    "uptimeDay": "59.36%",
-    "uptimeWeek": "90.28%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "93.44%",
+    "status": "up",
+    "uptime": "94.87%",
+    "uptimeDay": "59.92%",
+    "uptimeWeek": "87.41%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "93.38%",
     "time": 243,
-    "timeDay": 213,
-    "timeWeek": 195,
-    "timeMonth": 197,
+    "timeDay": 205,
+    "timeWeek": 194,
+    "timeMonth": 195,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2026-01-10": 16,
@@ -3405,7 +3405,7 @@
       "2026-05-24": 97,
       "2026-05-29": 273,
       "2026-06-02": 626,
-      "2026-06-03": 80
+      "2026-06-03": 370
     }
   },
   {
@@ -3440,15 +3440,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nonprofit-webdesign.com.ico",
     "slug": "nonprofit",
     "status": "down",
-    "uptime": "93.92%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "83.13%",
-    "uptimeMonth": "80.27%",
-    "uptimeYear": "92.17%",
+    "uptime": "93.88%",
+    "uptimeDay": "79.11%",
+    "uptimeWeek": "80.18%",
+    "uptimeMonth": "79.80%",
+    "uptimeYear": "92.11%",
     "time": 646,
     "timeDay": 173,
     "timeWeek": 307,
-    "timeMonth": 412,
+    "timeMonth": 410,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2026-02-28": 28,
@@ -3525,7 +3525,7 @@
       "2026-05-28": 136,
       "2026-05-30": 1358,
       "2026-05-31": 204,
-      "2026-06-03": 3
+      "2026-06-03": 301
     }
   }
 ]
