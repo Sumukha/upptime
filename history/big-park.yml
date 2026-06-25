@@ -1,7 +1,7 @@
 url: https://bigparkcouncil.org
-status: up
-code: 200
-responseTime: 1661
-lastUpdated: 2026-06-24T23:55:43.292Z
+status: down
+code: 415
+responseTime: 248
+lastUpdated: 2026-06-25T00:10:14.147Z
 startTime: 2025-02-18T00:27:31.830Z
 generator: Upptime <https://github.com/upptime/upptime>
