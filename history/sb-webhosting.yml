@@ -1,7 +1,7 @@
 url: https://accountant.sb-webhosting.com
-status: up
+status: degraded
 code: 200
-responseTime: 560
-lastUpdated: 2026-07-21T23:47:41.941Z
+responseTime: 10321
+lastUpdated: 2026-07-22T03:39:00.811Z
 startTime: 2025-02-20T19:13:43.724Z
 generator: Upptime <https://github.com/upptime/upptime>
