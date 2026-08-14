@@ -1239,11 +1239,11 @@
     "url": "https://energyempoweredjewelry.com",
     "icon": "https://icons.duckduckgo.com/ip3/energyempoweredjewelry.com.ico",
     "slug": "energyempoweredjewelry-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "68.96%",
-    "uptimeWeek": "87.02%",
-    "uptimeMonth": "95.02%",
+    "uptimeDay": "68.84%",
+    "uptimeWeek": "87.00%",
+    "uptimeMonth": "95.01%",
     "uptimeYear": "99.54%",
     "time": 1861,
     "timeDay": 1544,
@@ -1269,7 +1269,7 @@
       "2026-08-11": 55,
       "2026-08-12": 50,
       "2026-08-13": 232,
-      "2026-08-14": 398
+      "2026-08-14": 400
     }
   },
   {
@@ -1703,7 +1703,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/orozonaoils.com.ico",
     "slug": "orozonaoils-com",
     "status": "up",
-    "uptime": "98.89%",
+    "uptime": "98.90%",
     "uptimeDay": "91.45%",
     "uptimeWeek": "91.48%",
     "uptimeMonth": "90.94%",
@@ -2874,7 +2874,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yardenlaw.com.ico",
     "slug": "yardenlaw",
     "status": "up",
-    "uptime": "97.88%",
+    "uptime": "97.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.72%",
