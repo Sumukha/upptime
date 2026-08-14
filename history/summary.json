@@ -226,14 +226,14 @@
     "url": "https://santabarbara-webdesign.com",
     "icon": "https://icons.duckduckgo.com/ip3/santabarbara-webdesign.com.ico",
     "slug": "sb-web",
-    "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "84.00%",
-    "uptimeWeek": "80.34%",
-    "uptimeMonth": "85.71%",
-    "uptimeYear": "97.39%",
+    "status": "up",
+    "uptime": "98.24%",
+    "uptimeDay": "79.91%",
+    "uptimeWeek": "79.75%",
+    "uptimeMonth": "85.57%",
+    "uptimeYear": "97.38%",
     "time": 355,
-    "timeDay": 364,
+    "timeDay": 368,
     "timeWeek": 354,
     "timeMonth": 393,
     "timeYear": 358,
@@ -294,7 +294,7 @@
       "2026-08-11": 353,
       "2026-08-12": 83,
       "2026-08-13": 171,
-      "2026-08-14": 143
+      "2026-08-14": 202
     }
   },
   {
@@ -1239,17 +1239,17 @@
     "url": "https://energyempoweredjewelry.com",
     "icon": "https://icons.duckduckgo.com/ip3/energyempoweredjewelry.com.ico",
     "slug": "energyempoweredjewelry-com",
-    "status": "down",
-    "uptime": "98.96%",
-    "uptimeDay": "62.32%",
-    "uptimeWeek": "87.34%",
-    "uptimeMonth": "95.22%",
-    "uptimeYear": "99.56%",
+    "status": "up",
+    "uptime": "98.95%",
+    "uptimeDay": "58.29%",
+    "uptimeWeek": "86.83%",
+    "uptimeMonth": "95.09%",
+    "uptimeYear": "99.55%",
     "time": 1861,
-    "timeDay": 1148,
-    "timeWeek": 931,
-    "timeMonth": 1157,
-    "timeYear": 1903,
+    "timeDay": 1274,
+    "timeWeek": 941,
+    "timeMonth": 1170,
+    "timeYear": 1902,
     "dailyMinutesDown": {
       "2025-11-26": 23,
       "2026-04-17": 47,
@@ -1269,7 +1269,7 @@
       "2026-08-11": 55,
       "2026-08-12": 50,
       "2026-08-13": 232,
-      "2026-08-14": 310
+      "2026-08-14": 368
     }
   },
   {
@@ -2686,16 +2686,16 @@
     "url": "https://visalobo.com",
     "icon": "https://icons.duckduckgo.com/ip3/visalobo.com.ico",
     "slug": "visalobo",
-    "status": "down",
-    "uptime": "98.12%",
-    "uptimeDay": "95.30%",
-    "uptimeWeek": "96.28%",
-    "uptimeMonth": "94.91%",
-    "uptimeYear": "97.21%",
+    "status": "up",
+    "uptime": "98.11%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "94.78%",
+    "uptimeYear": "97.20%",
     "time": 329,
-    "timeDay": 264,
-    "timeWeek": 383,
-    "timeMonth": 391,
+    "timeDay": 285,
+    "timeWeek": 382,
+    "timeMonth": 390,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2026-04-19": 147,
@@ -2772,7 +2772,7 @@
       "2026-08-10": 30,
       "2026-08-11": 40,
       "2026-08-12": 84,
-      "2026-08-14": 68
+      "2026-08-14": 125
     }
   },
   {
