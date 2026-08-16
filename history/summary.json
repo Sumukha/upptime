@@ -1238,16 +1238,16 @@
     "url": "https://energyempoweredjewelry.com",
     "icon": "https://icons.duckduckgo.com/ip3/energyempoweredjewelry.com.ico",
     "slug": "energyempoweredjewelry-com",
-    "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "67.25%",
-    "uptimeWeek": "81.64%",
-    "uptimeMonth": "93.32%",
-    "uptimeYear": "99.40%",
+    "status": "up",
+    "uptime": "98.84%",
+    "uptimeDay": "64.69%",
+    "uptimeWeek": "81.28%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "99.39%",
     "time": 1846,
-    "timeDay": 1454,
-    "timeWeek": 1219,
-    "timeMonth": 1174,
+    "timeDay": 1482,
+    "timeWeek": 1235,
+    "timeMonth": 1182,
     "timeYear": 1879,
     "dailyMinutesDown": {
       "2025-11-26": 23,
@@ -1270,7 +1270,7 @@
       "2026-08-13": 232,
       "2026-08-14": 476,
       "2026-08-15": 524,
-      "2026-08-16": 142
+      "2026-08-16": 179
     }
   },
   {
@@ -2303,7 +2303,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/accountant.sb-webhosting.com.ico",
     "slug": "sb-webhosting",
     "status": "up",
-    "uptime": "94.57%",
+    "uptime": "94.58%",
     "uptimeDay": "98.70%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "97.74%",
@@ -3062,18 +3062,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nonprofit-webdesign.com.ico",
     "slug": "nonprofit",
     "status": "up",
-    "uptime": "97.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "97.01%",
+    "uptime": "97.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "96.99%",
     "time": 630,
     "timeDay": 566,
     "timeWeek": 350,
     "timeMonth": 493,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2026-03-25": 73,
+      "2026-03-25": 184,
       "2026-03-26": 16,
       "2026-03-29": 170,
       "2026-03-30": 224,
@@ -3129,8 +3129,7 @@
       "2026-06-06": 155,
       "2026-07-26": 48,
       "2026-08-12": 79,
-      "2026-08-11": 24,
-      "2026-08-16": 15
+      "2026-08-11": 24
     }
   }
 ]
