@@ -1165,16 +1165,16 @@
     "url": "https://energyempoweredjewelry.com",
     "icon": "https://icons.duckduckgo.com/ip3/energyempoweredjewelry.com.ico",
     "slug": "energyempoweredjewelry-com",
-    "status": "down",
+    "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "82.62%",
-    "uptimeWeek": "77.59%",
-    "uptimeMonth": "89.90%",
-    "uptimeYear": "99.12%",
-    "time": 1810,
-    "timeDay": 1662,
-    "timeWeek": 1310,
-    "timeMonth": 1205,
+    "uptimeDay": "81.91%",
+    "uptimeWeek": "77.61%",
+    "uptimeMonth": "89.87%",
+    "uptimeYear": "99.11%",
+    "time": 1809,
+    "timeDay": 1677,
+    "timeWeek": 1320,
+    "timeMonth": 1211,
     "timeYear": 1828,
     "dailyMinutesDown": {
       "2025-11-26": 23,
@@ -1202,7 +1202,7 @@
       "2026-08-18": 438,
       "2026-08-19": 180,
       "2026-08-20": 147,
-      "2026-08-21": 250
+      "2026-08-21": 260
     }
   },
   {
