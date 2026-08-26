@@ -1144,10 +1144,10 @@
     "url": "https://energyempoweredjewelry.com",
     "icon": "https://icons.duckduckgo.com/ip3/energyempoweredjewelry.com.ico",
     "slug": "energyempoweredjewelry-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "89.16%",
-    "uptimeWeek": "87.61%",
+    "uptimeDay": "90.44%",
+    "uptimeWeek": "87.59%",
     "uptimeMonth": "88.48%",
     "uptimeYear": "98.99%",
     "time": 1797,
@@ -1186,7 +1186,7 @@
       "2026-08-23": 75,
       "2026-08-24": 72,
       "2026-08-25": 122,
-      "2026-08-26": 35
+      "2026-08-26": 37
     }
   },
   {
@@ -1671,7 +1671,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pernicelaw.com.ico",
     "slug": "pernicelaw-com",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.15%",
