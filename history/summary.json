@@ -1146,9 +1146,9 @@
     "slug": "energyempoweredjewelry-com",
     "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "91.41%",
-    "uptimeWeek": "87.93%",
-    "uptimeMonth": "88.56%",
+    "uptimeDay": "90.06%",
+    "uptimeWeek": "87.74%",
+    "uptimeMonth": "88.51%",
     "uptimeYear": "98.99%",
     "time": 1801,
     "timeDay": 1647,
@@ -1186,7 +1186,7 @@
       "2026-08-23": 75,
       "2026-08-24": 72,
       "2026-08-25": 122,
-      "2026-08-26": 2
+      "2026-08-26": 22
     }
   },
   {
@@ -2662,17 +2662,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/visawolf.com.ico",
     "slug": "visawolf",
     "status": "up",
-    "uptime": "97.86%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "96.75%",
+    "uptime": "97.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "96.73%",
     "time": 501,
     "timeDay": 421,
     "timeWeek": 612,
     "timeMonth": 548,
     "timeYear": 493,
     "dailyMinutesDown": {
+      "2026-04-21": 78,
       "2026-04-22": 225,
       "2026-04-25": 120,
       "2026-04-26": 143,
@@ -2747,8 +2748,7 @@
       "2026-08-14": 60,
       "2026-08-15": 106,
       "2026-08-16": 121,
-      "2026-08-23": 111,
-      "2026-08-26": 11
+      "2026-08-23": 111
     }
   },
   {
