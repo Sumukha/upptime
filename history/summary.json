@@ -14,7 +14,7 @@
     "timeDay": 419,
     "timeWeek": 382,
     "timeMonth": 659,
-    "timeYear": 1443,
+    "timeYear": 1436,
     "dailyMinutesDown": {
       "2026-07-17": 225,
       "2026-07-18": 414,
@@ -2145,17 +2145,17 @@
     "url": "https://accountant.sb-webhosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/accountant.sb-webhosting.com.ico",
     "slug": "sb-webhosting",
-    "status": "degraded",
-    "uptime": "98.03%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "96.93%",
-    "time": 2177,
-    "timeDay": 2754,
-    "timeWeek": 1627,
-    "timeMonth": 2096,
-    "timeYear": 2156,
+    "status": "up",
+    "uptime": "98.02%",
+    "uptimeDay": "90.71%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "96.58%",
+    "uptimeYear": "96.91%",
+    "time": 2175,
+    "timeDay": 2142,
+    "timeWeek": 1569,
+    "timeMonth": 2072,
+    "timeYear": 2154,
     "dailyMinutesDown": {
       "2026-03-30": 104,
       "2026-03-31": 53,
@@ -2235,7 +2235,7 @@
       "2026-09-03": 144,
       "2026-09-05": 130,
       "2026-09-06": 83,
-      "2026-09-12": 3
+      "2026-09-12": 134
     }
   },
   {
