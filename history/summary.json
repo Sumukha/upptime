@@ -395,7 +395,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aznaturalhistory.org.ico",
     "slug": "anha",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.12%",
     "uptimeMonth": "99.57%",
@@ -1131,13 +1131,13 @@
     "url": "https://energyempoweredjewelry.com",
     "icon": "https://icons.duckduckgo.com/ip3/energyempoweredjewelry.com.ico",
     "slug": "energyempoweredjewelry-com",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "98.78%",
-    "time": 1785,
+    "time": 1786,
     "timeDay": 2300,
     "timeWeek": 1298,
     "timeMonth": 1578,
@@ -1180,7 +1180,8 @@
       "2026-08-30": 72,
       "2026-09-05": 100,
       "2026-09-07": 26,
-      "2026-10-03": 48
+      "2026-10-03": 48,
+      "2026-10-13": 2
     }
   },
   {
